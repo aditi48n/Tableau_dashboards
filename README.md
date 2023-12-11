@@ -7,4 +7,4 @@ Two filtering options- Year and Neighbourhood are also available to further cust
 An image of the dashboard is attached below and the dashboard can be accessed [here](https://public.tableau.com/views/AirBnb_Vancouver_Distribution/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link).
 
 
-
+![alt text](http://url/to/img.png)
