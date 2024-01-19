@@ -10,10 +10,14 @@ An image of the dashboard is attached below and the dashboard can be accessed [h
 ![alt text](https://github.com/aditi48n/AirBnb_Vancouver_Tableau/blob/main/Tableau_dashboard_modified.png)
 
 
-# Tableau Dashboard- Vancouver AirBnb Insights
+
+
+# Tableau Dashboard- World Population Data
 
 This dashboard contains details about the world population. The first visualization summarises the world population data in 2023 on a map. In addition it shows the contribution of various regions to the total world share. A filtering option helps you filter for a country of your choice to display other stats like land area, median age and fertility rate. On the right corner is a table summarising the regional distribution of population in 2023. 
 
 Below are two plots, one allowing you to compare the population growth of two countries over eight decades and the other showing the world population growth over eight decades. 
 
-An image of the dashboard is attached below and the dashboard can be accessed
+An image of the dashboard is attached below and the dashboard can be accessed [here](https://public.tableau.com/app/profile/aditi.nagaraj.nallan/viz/WorldPopulationData_17056440006180/Dashboard1)
+
+![alt text](https://github.com/aditi48n/AirBnb_Vancouver_Tableau/blob/main/WPD_2023.png)
